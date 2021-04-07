@@ -1,6 +1,6 @@
 <img src="https://ik.imagekit.io/lltmkbsdtye/CAPA_LINKEDIN_PERFIL_PESSOAL03__1__7hO4TKpg5.png">
 
-# 🚀️ Projeto realizado no final do bloco 5
+# 🚀️ Projeto realizado no final do bloco 6
 
 ## 💚️ Resultado 💚️
 <img src="./Peek 07-04-2021 19-03.gif">

@@ -8,6 +8,20 @@
 
 ---
 
+## Habilidades
+
+Neste projeto, verificaremos se você é capaz de:
+
+  * Criar formulários em HTML;
+
+  * Utilizar CSS Flexbox para criar layouts flexíveis;
+
+  * Criar regras CSS específicas para serem aplicadas a dispositivos móveis;
+
+  * Construir páginas que alteram o seu layout de acordo com a orientação da tela;
+
+---
+
 ## Requisitos do projeto
 
 Caso você faça o download de bibliotecas externas, utilize o diretório libs (à partir da raiz do projeto) para colocar os arquivos (*.css, *.js, etc...) baixados.
